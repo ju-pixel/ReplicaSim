@@ -49,7 +49,7 @@ This repository is intended to provide full transparency for the simulation code
 
 ### Acknowledgements
 - HPC access provided by **Digital Alliance Canada**
-- Research supported by **NSERC** and **Research Manitoba**
+- Research supported by **University of Manitoba**, **NSERC**, and **Canadian Foundation for Innovation (CFI) John R. Evans Leaders Fund**
 - Supervised by Prof. Robert L. Stamps and Prof. Johan van Lierop
 
 
