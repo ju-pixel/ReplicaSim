@@ -15,7 +15,7 @@ _Department of Physics and Astronomy, University of Manitoba, 2024_
 - Designed for HPC environments with batch-job compatibility
 - Open and transparent for reproducibility and peer review
 
-📄 [Read the full technical description and motivation (PDF)](docs/ReplicaSim_Description.pdf)
+📄 [Read the full technical description and motivation (PDF)](ReplicaSim_Description.pdf)
 
 ---
 
