@@ -8,18 +8,18 @@ _Department of Physics and Astronomy, University of Manitoba, 2024_
 
 ---
 
-## 🔍 Features
+## Features
 
 - Custom CUDA kernel programming using [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 - Efficient simulation of thousands of replicas simultaneously
 - Designed for HPC environments with batch-job compatibility
 - Open and transparent for reproducibility and peer review
 
-📄 [Read the full technical description (PDF)](docs/ReplicaSim_Description.pdf)
+📄 [Read the full technical description and motivation (PDF)](docs/ReplicaSim_Description.pdf)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 - Julia ≥ 1.11
@@ -34,6 +34,24 @@ _Department of Physics and Astronomy, University of Manitoba, 2024_
 ```julia
 using Pkg
 Pkg.add("CUDA")
+```
+
+
+### License
+This project is licensed under the MIT License.
+
+
+
+### For Reviewers
+This repository is intended to provide full transparency for the simulation code described in the submitted manuscript. For any questions or reproducibility concerns, feel free to open an issue or contact me directly.
+
+
+
+### Acknowledgements
+- HPC access provided by **Digital Alliance Canada**
+- Research supported by **NSERC** and **Research Manitoba**
+- Supervised by Prof. Robert L. Stamps and Prof. Johan van Lierop
+
 
 
 
