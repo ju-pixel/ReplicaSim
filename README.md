@@ -15,6 +15,8 @@ _Department of Physics and Astronomy, University of Manitoba, 2024_
 - Designed for HPC environments with batch-job compatibility
 - Open and transparent for reproducibility and peer review
 
+📄 [Read the full technical description (PDF)](docs/ReplicaSim_Description.pdf)
+
 ---
 
 ## 🚀 Getting Started
@@ -32,5 +34,6 @@ _Department of Physics and Astronomy, University of Manitoba, 2024_
 ```julia
 using Pkg
 Pkg.add("CUDA")
+
 
 
