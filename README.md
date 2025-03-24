@@ -1,6 +1,6 @@
 # ReplicaSim
 
-**ReplicaSim** is a GPU-accelerated simulation tool written in Julia for performing large-scale Monte Carlo simulations of **artificial spin ice (ASI)** systems. It is designed to efficiently simulate multiple replicas in parallel, making it suitable for high-throughput data generation in computational nanomagnetism research.
+**ReplicaSim** is a GPU-accelerated simulation tool written in Julia and using low-level CUDA kernel programming for performing large-scale Monte Carlo simulations of **artificial spin ice (ASI)** systems. It is designed to efficiently simulate multiple replicas in parallel, making it suitable for high-throughput data generation in computational nanomagnetism research.
 
 This tool was developed as part of my MSc research project:  
 **"Localized Control of Magnetization Reversal in Square Artificial Spin Ice"**  
