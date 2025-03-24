@@ -22,7 +22,7 @@ _Department of Physics and Astronomy, University of Manitoba, 2024_
 ## Getting Started
 
 ### Requirements
-- Julia ≥ 1.11
+- Julia ≥ 1.11.3
 - CUDA-enabled GPU
 - Julia packages:
   - `CUDA.jl`
